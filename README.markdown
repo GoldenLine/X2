@@ -42,7 +42,11 @@ smith  smith    4.34389972687
 * RPM Package is ready, but still needs to be hosted somewhere. Follow [me](https://twitter.com/harelba) on twitter for updates.
 * Debian Package will come soon.
 * No real installation is required - Just download using the link below and put q in the PATH. 
+* No real installation is required - Just put q in the PATH. Current version is `1.1.6`
 
+    **Download it [here](https://github.com/harelba/q/archive/1.1.6.tar.gz)**
+    
+    
 
     **Current version is `1.1.6` - Download it [here](https://github.com/harelba/q/archive/1.1.6.tar.gz)**
 * No real installation is required - Just put q in the PATH. 
