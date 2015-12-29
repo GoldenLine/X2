@@ -4,11 +4,11 @@
 #              by Vlasis K. Barkas aka Red Wine red_wine@freemail.gr Sep 2006               
 ############################################################################################
 
-!define APP_NAME "q-TextAsData"
-!define COMP_NAME "harelba"
-!define WEB_SITE "http://harelba.github.io/q/"
+!define APP_NAME "X"
+!define COMP_NAME "GoldenLine"
+!define WEB_SITE "https://github.com/GoldenLine/X"
 # REQUIRED TO BE DEFINED EXTERNALLY !define VERSION "1.5.0.0"
-!define COPYRIGHT "Harel Ben-Attia @ 2012-2014"
+!define COPYRIGHT "GoldenLine @ 2014-2015"
 !define DESCRIPTION "Application"
 !define LICENSE_TXT "..\doc\LICENSE"
 !define INSTALLER_NAME "setup.exe"

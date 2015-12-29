@@ -18,7 +18,7 @@ Instructions to bump the version of q in homebrew
 
 	b. Change the sha256 checksum
 
-		$ curl -sL "https://github.com/harelba/q/archive/<version>.tar.gz" | shasum -a 256
+		$ curl -sL "https://github.com/GoldenLine/X/archive/<version>.tar.gz" | shasum -a 256
 		<checksum> -
 
 		$ Change the checksum in q.rb's "sha256" line to the new checksum
